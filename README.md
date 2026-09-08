@@ -2,7 +2,7 @@
 
 ## Project status
 
-`compose-the-function` is an early Rust prototype of a deckbuilder/roguelike in which the player constructs real functional-language expressions from cards. The project currently focuses on the smallest playable terminal loop: select cards, arrange them into an expression, validate the expression, and either bind it as a single-use turn-local card or evaluate it for a score.
+`compose-the-function` is an early Rust prototype of a deckbuilder/roguelike in which the player constructs real functional-language expressions from cards. The project currently focuses on the smallest playable terminal loop: select cards, arrange them into an expression, validate the expression, and either bind it as a single-use turn-local card or evaluate it for a score. It is heavily influenced by games like Slay the Spire and Balatro.
 
 The project is intentionally not yet a complete deckbuilder, parser, or Hindley–Milner type system.
 
